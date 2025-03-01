@@ -20,7 +20,7 @@ Repository containing projects developed and showcased on the BW8 Built With Bit
 ## Getting Started
 Instructions for accessing and using project files:
 ```bash
-git clone https://github.com/[your-username]/BW8-built-with-bits.git
+git clone https://github.com/unknownman/BW8-built-with-bits.git
 cd BW8-built-with-bits
 ```
 
