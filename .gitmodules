@@ -1,0 +1,12 @@
+[submodule "course/nuxt"]
+	path = course/nuxt
+	url = https://github.com/unknownman/youtube-channel-nuxt.git
+[submodule "course/vue3"]
+	path = course/vue3
+	url = https://github.com/unknownman/bw8-vue3-dashboad.git
+[submodule "course/laravel"]
+	path = course/laravel
+	url = https://github.com/unknownman/laravel-boilerplate-11.git
+[submodule "course/adonisJs"]
+	path = course/adonisJs
+	url = https://github.com/unknownman/adonisjs-book-store.git
